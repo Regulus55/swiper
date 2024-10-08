@@ -13,7 +13,7 @@ export const PRODUCT_BREAK_POINTS = {
   },
 }; //화면크기 마다 몇개볼건지? 2,3,4
 
-export const NFT_BREAK_POINTS = {
+export const NEW_BREAK_POINTS = {
   576: {
     slidesPerView: 2,
     spaceBetween: 30,
@@ -33,4 +33,4 @@ export const NFT_BREAK_POINTS = {
 }; //화면크기 마다 몇개볼건지? 2,3,4
 
 export const PRODUCT_LOADING_ARRAY = [1, 2, 3, 4, 5, 56, 7];
-export const NFT_LOADING_ARRAY = [1, 2, 3, 4];
+export const NEW_LOADING_ARRAY = [1, 2, 3, 4];

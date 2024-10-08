@@ -22,6 +22,12 @@ const MySlider = () => {
       <SwiperSlide>Slide 2</SwiperSlide>
       <SwiperSlide>Slide 3</SwiperSlide>
       <SwiperSlide>Slide 4</SwiperSlide>
+
+      {/* {PRODUCT_LOADING_ARRAY.map((item) => (
+        <SwiperSlide key={item}>
+          Slide {item} 
+        </SwiperSlide>
+      ))} */}
     </Swiper>
   );
 };
